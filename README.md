@@ -15,7 +15,7 @@ The following command builds the Meteor app .
 uid=0(root) gid=0(root) groups=0(root)
 # mkdir /root/build
 # meteor --allow-superuser create hello
-# docker run --rm -it -v /root/hello:/app -v /root/build:/build agmangas/meteor-android-build
+# docker run --rm -it -v /root/hello:/app -v /root/build:/build echochio/meteor-android-build
 # ls -l /root/build/android/
 total 476
 drwxr-xr-x 13 root root   4096 Apr 25 13:29 project
