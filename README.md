@@ -8,9 +8,7 @@ This image requires a couple of inputs from the user:
 
 ### Example commands
 
-The following command builds the Meteor app found on `/path/to/meteor/app` using the default keystore. The APK file is configured to connect to the remote Meteor server found on *example.com*. It will be placed under the host's current working directory.
-
-
+The following command builds the Meteor app .
 
 ```
 # mkdir /root/build
