@@ -23,4 +23,4 @@ drwxr-xr-x 13 root root   4096 Apr 25 13:29 project
 -rw-r--r--  1 root root 479145 Apr 25 13:29 release-unsigned.apk
 ```
 
-![alt tag](https://github.com/chio-nzgft/cacti-wan-speed-cheker/blob/master/images/1481787019-2075263314_n.png)
+![alt tag](https://github.com/echochio-tw/meteor-android-build/raw/master/pic.png)
