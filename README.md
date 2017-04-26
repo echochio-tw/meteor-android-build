@@ -23,4 +23,7 @@ drwxr-xr-x 13 root root   4096 Apr 25 13:29 project
 -rw-r--r--  1 root root 479145 Apr 25 13:29 release-unsigned.apk
 ```
 
+# need signed .....
+fllow ... http://echochio.pixnet.net/blog/post/44948287
+
 ![alt tag](https://github.com/echochio-tw/meteor-android-build/raw/master/pic.png)
