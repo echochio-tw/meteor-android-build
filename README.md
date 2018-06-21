@@ -24,6 +24,6 @@ drwxr-xr-x 13 root root   4096 Apr 25 13:29 project
 ```
 
 # need signed .....
-fllow ... http://echochio.pixnet.net/blog/post/44948287
+fllow ... https://www.echochio.nctu.me/2017/04/android_unsigned_signed/
 
 ![alt tag](https://github.com/echochio-tw/meteor-android-build/raw/master/pic.png)
